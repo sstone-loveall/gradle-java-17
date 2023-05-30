@@ -34,3 +34,6 @@ out/
 .idea/*
 
 /.gitattributes
+
+# Don't ignore gradle.jar
+!gradle-wrapper.jar
